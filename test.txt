@@ -4,9 +4,6 @@ some string
 testtest
 test
 string
-<<<<<<< HEAD
-dev branch
-=======
+
 dev branch
 dev committ
->>>>>>> dev
