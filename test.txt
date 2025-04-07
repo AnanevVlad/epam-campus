@@ -5,4 +5,4 @@ testtest
 test
 string
 dev branch
-dev commit
+dev committ
