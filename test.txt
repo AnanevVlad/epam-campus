@@ -4,6 +4,5 @@ some string
 testtest
 test
 string
-
 dev branch
 dev committ
