@@ -1,9 +1,6 @@
 test string
 second string
-<<<<<<< HEAD
 some string
 testtest
 test
 string
-=======
->>>>>>> parent of e6998ef (add new string)
